@@ -1,0 +1,44 @@
+{
+  "name": "Revenge - Blue Vengeance",
+  "description": "Karanlık mavi tonlarda, intikam havasında modern Revenge teması",
+  "author": "FeaRsBlue",
+  "version": "1.0.0",
+  "colors": {
+    "bgPrimary": "#0b0f16",
+    "bgSecondary": "#111827",
+    "bgTertiary": "#1e293b",
+    "bgAccent": "#1e3a8a",
+    "bgHover": "#243b5e",
+    "bgActive": "#0f172a",
+    "messageHover": "#1a2234",
+    "cardPrimary": "#111827",
+    "cardSecondary": "#1e293b",
+    "scrollbar": "#334155",
+    "accent": "#3b82f6",
+    "accentHover": "#2563eb",
+    "accentActive": "#1d4ed8",
+    "textPrimary": "#dbeafe",
+    "textSecondary": "#94a3b8",
+    "textMuted": "#64748b",
+    "textDanger": "#ef4444",
+    "link": "#60a5fa",
+    "mention": "#1d4ed8",
+    "unreadBadge": "#3b82f6",
+    "success": "#22c55e",
+    "warning": "#facc15",
+    "error": "#ef4444"
+  },
+  "icons": {
+    "online": "#38bdf8",
+    "idle": "#facc15",
+    "dnd": "#ef4444",
+    "offline": "#475569",
+    "streaming": "#60a5fa"
+  },
+  "misc": {
+    "cornerRadius": 12,
+    "transparency": 0.9,
+    "blur": 4,
+    "animation": true
+  }
+}
