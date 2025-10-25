@@ -1,44 +1,72 @@
 {
-  "name": "Revenge - Blue Vengeance",
-  "description": "Karanlık mavi tonlarda, intikam havasında modern Revenge teması",
-  "author": "FeaRsBlue",
-  "version": "1.0.0",
-  "colors": {
-    "bgPrimary": "#0b0f16",
-    "bgSecondary": "#111827",
-    "bgTertiary": "#1e293b",
-    "bgAccent": "#1e3a8a",
-    "bgHover": "#243b5e",
-    "bgActive": "#0f172a",
-    "messageHover": "#1a2234",
-    "cardPrimary": "#111827",
-    "cardSecondary": "#1e293b",
-    "scrollbar": "#334155",
-    "accent": "#3b82f6",
-    "accentHover": "#2563eb",
-    "accentActive": "#1d4ed8",
-    "textPrimary": "#dbeafe",
-    "textSecondary": "#94a3b8",
-    "textMuted": "#64748b",
-    "textDanger": "#ef4444",
-    "link": "#60a5fa",
-    "mention": "#1d4ed8",
-    "unreadBadge": "#3b82f6",
-    "success": "#22c55e",
-    "warning": "#facc15",
-    "error": "#ef4444"
-  },
-  "icons": {
-    "online": "#38bdf8",
-    "idle": "#facc15",
-    "dnd": "#ef4444",
-    "offline": "#475569",
-    "streaming": "#60a5fa"
-  },
-  "misc": {
-    "cornerRadius": 12,
-    "transparency": 0.9,
-    "blur": 4,
-    "animation": true
-  }
+    "name": "BlueOLED",
+    "description": "Cold vengeance in pure blue tones.",
+    "authors": [
+        {
+            "name": "FeaRsBlue",
+            "id": "929000000000000000"
+        }
+    ],
+    "semanticColors": {
+        "CARD_PRIMARY_BG": ["#000000"],
+        "HEADER_PRIMARY": ["#e0f2fe"],
+        "HEADER_SECONDARY": ["#3b82f6"],
+        "TEXT_NORMAL": ["#e0f2fe"],
+        "TEXT_MUTED": ["#60a5fa"],
+        "TEXT_LINK": ["#3b82f6"],
+        "TEXT_DANGER": ["#60a5fa"],
+        "INTERACTIVE_NORMAL": ["#ffffff"],
+        "INTERACTIVE_ACTIVE": ["#3b82f6"],
+        "INTERACTIVE_MUTED": ["#4b5563"],
+        "BACKGROUND_PRIMARY": ["#000000"],
+        "BACKGROUND_SECONDARY": ["#000000"],
+        "BACKGROUND_SECONDARY_ALT": ["#000000"],
+        "BACKGROUND_TERTIARY": ["#000000"],
+        "BACKGROUND_ACCENT": ["#1e40af"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#000000"],
+        "BACKGROUND_MENTIONED": ["#1e3a8a"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["#000000"],
+        "BACKGROUND_MODIFIER_SELECTED": ["#1e3a8a55"],
+        "BACKGROUND_MODIFIER_ACCENT": ["#000000"],
+        "SPOILER_HIDDEN_BACKGROUND": ["#000000"],
+        "SPOILER_REVEALED_BACKGROUND": ["#000000"],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#9ca3af"],
+        "CHAT_BACKGROUND": ["#000000"],
+        "CHANNELS_DEFAULT": ["#cbd5e1"],
+        "CHANNEL_ICON": ["#ffffff"]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#e0f2fe",
+        "PRIMARY_200": "#e0f2fe",
+        "PRIMARY_300": "#93c5fd",
+        "PRIMARY_360": "#3b82f6",
+        "PRIMARY_500": "#1d4ed8",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
+        "BRAND_260": "#60a5fa",
+        "BRAND_360": "#3b82f6",
+        "BRAND_500": "#1d4ed8",
+        "BRAND_560": "#60a5fa",
+        "WHITE_500": "#ffffff",
+        "BLUE_345": "#3b82f6",
+        "YELLOW_300": "#60a5fa",
+        "ORANGE_345": "#3b82f6",
+        "GREEN_345": "#60a5fa",
+        "GREEN_360": "#3b82f6",
+        "RED_560": "#3b82f6",
+        "RED_400": "#60a5fa"
+    },
+    "spec": 2,
+    "background": {
+        "color": "#000000"
+    },
+    "plus": {
+        "version": 0,
+        "unreadBadgeColor": "#3b82f6",
+        "iconpack": "md3"
+    }
 }
